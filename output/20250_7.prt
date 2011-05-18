@@ -1,0 +1,136 @@
+ BELLHOP- UWASN                                                                  
+ frequency =  0.2025E+05 Hz
+
+ Dummy parameter NMedia =            1
+
+     C-LINEAR approximation to SSP
+     Attenuation units: dB/mkHz
+     THORP attenuation added
+     VACUUM
+
+ Depth =    100.00000000000000      m
+
+ C-Linear SSP option
+
+ Sound speed profile:
+      7.00      1447.00
+     10.00      1474.90
+     20.00      1497.70
+     30.00      1478.70
+     40.00      1460.10
+     50.00      1450.80
+     60.00      1447.10
+     70.00      1447.10
+     80.00      1444.90
+     90.00      1446.00
+     95.00      1443.80
+    100.00      1441.80
+
+                                 ( RMS roughness =  0.200E-01 )
+     Bathymetry file selected
+     Perfectly RIGID
+
+ Number of sources   =            1
+ Source depths (m)
+   90.0000    
+
+ Number of receivers =            6
+ Receiver depths (m)
+   87.0000       88.0000       89.0000       90.0000       91.0000    
+   92.0000    
+
+ Number of ranges   =            6
+ Receiver ranges (km)
+  0.900000       1.00000       1.10000       1.90000       2.00000    
+   2.10000    
+
+ Arrivals calculation, ASCII  file output
+ Geometric hat beams
+ Point source (cylindrical coordinates)
+ Rectilinear receiver grid: Receivers at rr( : ) x rd( : )
+
+ Number of beams   =         8505
+ Beam take-off angles (degrees)
+  -10.0000      -9.99847      -9.99694      -9.99541      -9.99389    
+  -9.99236      -9.99083      -9.98930      -9.98777      -9.98624    
+  -9.98471      -9.98318      -9.98166      -9.98013      -9.97860    
+  -9.97707      -9.97554      -9.97401      -9.97248      -9.97095    
+  -9.96943    
+
+ Step length,     deltas =    10.000000000000000      m
+
+ Maximum ray Depth, zBox =    100.00000000000000      m
+ Maximum ray range, rBox =    2200.0000000000000      m
+ No beam shift in effect
+
+ *********************************
+ Using bottom-bathymetry file
+ Curvilinear Interpolation
+ Number of bathymetry points           3
+
+  Range (km)  Depth (m)
+   0.00       95.0    
+   1.28       95.0    
+   2.55       94.0    
+
+ ( Maximum # of arrivals =        55555 )
+
+ Tracing beam            1  -10.000000000000000     
+
+ Minimum width beams                     
+ halfwidth  =    4.7675658070478031     
+ EpsOpt     =  (  0.0000000000000000     ,  1446000.0000000000     )
+ EpsMult    =    1.0000000000000000     
+
+ Tracing beam          171  -9.7401222953904032     
+ Tracing beam          341  -9.4802445907808099     
+ Tracing beam          511  -9.2203668861712131     
+ Tracing beam          681  -8.9604891815616181     
+ Tracing beam          851  -8.7006114769520231     
+ Tracing beam         1021  -8.4407337723424263     
+ Tracing beam         1191  -8.1808560677328312     
+ Tracing beam         1361  -7.9209783631232362     
+ Tracing beam         1531  -7.6611006585136403     
+ Tracing beam         1701  -7.4012229539040444     
+ Tracing beam         1871  -7.1413452492944485     
+ Tracing beam         2041  -6.8814675446848534     
+ Tracing beam         2211  -6.6215898400752584     
+ Tracing beam         2381  -6.3617121354656625     
+ Tracing beam         2551  -6.1018344308560675     
+ Tracing beam         2721  -5.8419567262464716     
+ Tracing beam         2891  -5.5820790216368765     
+ Tracing beam         3061  -5.3222013170272806     
+ Tracing beam         3231  -5.0623236124176856     
+ Tracing beam         3401  -4.8024459078080888     
+ Tracing beam         3571  -4.5425682031984946     
+ Tracing beam         3741  -4.2826904985888987     
+ Tracing beam         3911  -4.0228127939793037     
+ Tracing beam         4081  -3.7629350893697082     
+ Tracing beam         4251  -3.5030573847601127     
+ Tracing beam         4421  -3.2431796801505168     
+ Tracing beam         4591  -2.9833019755409218     
+ Tracing beam         4761  -2.7234242709313259     
+ Tracing beam         4931  -2.4635465663217309     
+ Tracing beam         5101  -2.2036688617121349     
+ Tracing beam         5271  -1.9437911571025399     
+ Tracing beam         5441  -1.6839134524929447     
+ Tracing beam         5611  -1.4240357478833481     
+ Tracing beam         5781  -1.1641580432737531     
+ Tracing beam         5951 -0.90428033866415791     
+ Tracing beam         6121 -0.64440263405456122     
+ Tracing beam         6291 -0.38452492944496619     
+ Tracing beam         6461 -0.12464722483537118     
+ Tracing beam         6631  0.13523047977422387     
+ Tracing beam         6801  0.39510818438382067     
+ Tracing beam         6971  0.65498588899341570     
+ Tracing beam         7141  0.91486359360301073     
+ Tracing beam         7311   1.1747412982126058     
+ Tracing beam         7481   1.4346190028222026     
+ Tracing beam         7651   1.6944967074317976     
+ Tracing beam         7821   1.9543744120413926     
+ Tracing beam         7991   2.2142521166509876     
+ Tracing beam         8161   2.4741298212605844     
+ Tracing beam         8331   2.7340075258701795     
+ Tracing beam         8501   2.9938852304797745     
+
+ CPU Time =        3.37    s
