@@ -1,0 +1,56 @@
+./fb plotScripts/plotData00.cfg
+Opening file plotScripts/plotData00.cfg
+Computing Bandwidth. Reading from: plotScripts/sig2noise00.out
+Peak at: 12250 with value -71.4878
+12250 58250 121135
+./fb plotScripts/plotData01.cfg
+Opening file plotScripts/plotData01.cfg
+Computing Bandwidth. Reading from: plotScripts/sig2noise01.out
+Peak at: 11500 with value -70.7941
+11500 57750 119755
+./fb plotScripts/plotData02.cfg
+Opening file plotScripts/plotData02.cfg
+Computing Bandwidth. Reading from: plotScripts/sig2noise02.out
+Peak at: 10250 with value -64.6186
+10250 58000 200623
+./fb plotScripts/plotData03.cfg
+Opening file plotScripts/plotData03.cfg
+Computing Bandwidth. Reading from: plotScripts/sig2noise03.out
+Peak at: 10000 with value -69.7774
+10000 42250 61823.4
+./fb plotScripts/plotData04.cfg
+Opening file plotScripts/plotData04.cfg
+Computing Bandwidth. Reading from: plotScripts/sig2noise04.out
+Peak at: 10250 with value -69.9497
+10250 43000 64381.9
+./fb plotScripts/plotData05.cfg
+Opening file plotScripts/plotData05.cfg
+Computing Bandwidth. Reading from: plotScripts/sig2noise05.out
+Peak at: 10500 with value -70.2751
+10500 42250 65599.1
+./fb plotScripts/plotData10.cfg
+Opening file plotScripts/plotData10.cfg
+Computing Bandwidth. Reading from: plotScripts/sig2noise10.out
+Peak at: 10750 with value -70.9357
+10750 58000 121254
+./fb plotScripts/plotData20.cfg
+Opening file plotScripts/plotData20.cfg
+Computing Bandwidth. Reading from: plotScripts/sig2noise20.out
+Peak at: 10250 with value -70.9156
+10250 58250 121756
+./fb plotScripts/plotData30.cfg
+Opening file plotScripts/plotData30.cfg
+Computing Bandwidth. Reading from: plotScripts/sig2noise30.out
+Peak at: 10250 with value -70.9635
+10250 58250 121595
+./fb plotScripts/plotData40.cfg
+Opening file plotScripts/plotData40.cfg
+Computing Bandwidth. Reading from: plotScripts/sig2noise40.out
+Peak at: 10500 with value -70.8612
+10500 58000 121306
+./fb plotScripts/plotData50.cfg
+Opening file plotScripts/plotData50.cfg
+Computing Bandwidth. Reading from: plotScripts/sig2noise50.out
+Peak at: 11750 with value -70.654
+11750 57750 118954
+
