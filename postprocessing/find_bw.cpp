@@ -10,6 +10,12 @@
 
 using namespace std;
 
+string itoa (int a) {
+  stringstream out;
+  out << a;
+  return out.str();
+}
+
 int main (int argc, char ** argv) {
   if (argc != 2) {
     return 1;
@@ -66,8 +72,8 @@ int main (int argc, char ** argv) {
   int offset = (BW[j-1] - BW[0])/250; // maybe a +1 here?
   int offset2 = offset / 2;
   double cInd[60000/250];
-  fstream out;
-  out.open("capacity.out", ios::out);
+  fstream out; const string capac ("plotScripts/capacity" + itoa(nrcv) + itoa(nrg) +".out");
+  out.open(capac.c_str(), ios::out);
   //TODO: find something better than O(n^2)
   for (int i = 0; i < n; i++) { 
     cInd[i] = 0;
@@ -77,6 +83,10 @@ int main (int argc, char ** argv) {
     C += cInd[i];
     out << i*250 + 250 << " " << cInd[i] << endl;
   }
+  out.close();
+  
+  out.open("plotScripts/capacities.out", ios::app);
+  out << nrcv << " " << nrg << " " << C << endl;
   out.close();
 
   cout << fc*250+250 <<" " << BW[j-1] - BW[0] << " " << C << endl;
