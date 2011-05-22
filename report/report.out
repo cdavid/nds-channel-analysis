@@ -1,0 +1,36 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}
+\BOOKMARK [1][-]{section.2}{Background}{}
+\BOOKMARK [2][-]{subsection.2.1}{Motivation}{section.2}
+\BOOKMARK [2][-]{subsection.2.2}{Previous Work}{section.2}
+\BOOKMARK [1][-]{section.3}{Methodology}{}
+\BOOKMARK [2][-]{subsection.3.1}{Preprocessing the Environment}{section.3}
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Frequency}{subsection.3.1}
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Sound Speed Profile}{subsection.3.1}
+\BOOKMARK [3][-]{subsubsection.3.1.3}{Bottom Description}{subsection.3.1}
+\BOOKMARK [3][-]{subsubsection.3.1.4}{Sources, Receivers, Ranges}{subsection.3.1}
+\BOOKMARK [3][-]{subsubsection.3.1.5}{Run Type}{subsection.3.1}
+\BOOKMARK [3][-]{subsubsection.3.1.6}{Beam Width}{subsection.3.1}
+\BOOKMARK [3][-]{subsubsection.3.1.7}{Bounding Box}{subsection.3.1}
+\BOOKMARK [2][-]{subsection.3.2}{Arrival Analysis and Data Interpretation}{section.3}
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Arrival file analysis}{subsection.3.2}
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Channel Response analysis}{subsection.3.2}
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Noise analysis}{subsection.3.2}
+\BOOKMARK [3][-]{subsubsection.3.2.4}{Signal to noise ratio}{subsection.3.2}
+\BOOKMARK [3][-]{subsubsection.3.2.5}{Bandwidth}{subsection.3.2}
+\BOOKMARK [3][-]{subsubsection.3.2.6}{Capacity}{subsection.3.2}
+\BOOKMARK [1][-]{section.4}{Case Study}{}
+\BOOKMARK [2][-]{subsection.4.1}{Preprocessing}{section.4}
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Frequency}{subsection.4.1}
+\BOOKMARK [3][-]{subsubsection.4.1.2}{Sound speed profile}{subsection.4.1}
+\BOOKMARK [3][-]{subsubsection.4.1.3}{Sources, Receivers, Ranges}{subsection.4.1}
+\BOOKMARK [3][-]{subsubsection.4.1.4}{Bottom Description}{subsection.4.1}
+\BOOKMARK [3][-]{subsubsection.4.1.5}{Run Type}{subsection.4.1}
+\BOOKMARK [3][-]{subsubsection.4.1.6}{Beam Width}{subsection.4.1}
+\BOOKMARK [3][-]{subsubsection.4.1.7}{Bounding Box}{subsection.4.1}
+\BOOKMARK [2][-]{subsection.4.2}{Sample ENV file}{section.4}
+\BOOKMARK [2][-]{subsection.4.3}{Bellhop processing}{section.4}
+\BOOKMARK [2][-]{subsection.4.4}{Postprocessing}{section.4}
+\BOOKMARK [2][-]{subsection.4.5}{Depth based evaluation}{section.4}
+\BOOKMARK [2][-]{subsection.4.6}{Range based evaluation}{section.4}
+\BOOKMARK [1][-]{section.5}{Conclusion and Future Work}{}
+\BOOKMARK [1][-]{section*.1}{References}{}
